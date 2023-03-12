@@ -65,7 +65,6 @@ public class NewMain1 {
               System.out.println("Por favor vuelva a ingresar una opcion valida");
               System.out.println("Las opciones validas son: 0,1,2,3,4 otro tipo de dato no lo dejara ejecutar el programa");
               System.out.println("Tendra otra oportunitad para ingresar la opcion que es correcta");
-              System.out.println("Probando github otra vez");
               me.proyectoBien();
         }
         
